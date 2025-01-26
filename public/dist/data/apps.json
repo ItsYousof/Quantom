@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Chess",
+        "img": "dist/img/chess.webp",
+        "url": "https://chess.com",
+        "desc": "Chess is a board game where you move pieces to capture the opponent's pieces. The game has multiple levels and challenges.",
+        "rating": 3.2,
+        "tags": ["chess", "single-player"]
+    },
+    {
+        "name": "ChatGPT",
+        "img": "dist/img/chatgpt.webp",
+        "url": "https://chat.openai.com",
+        "desc": "ChatGPT is an intelligent chatbot that can answer questions and provide information. The chatbot is powered by OpenAI's GPT-4 model.",
+        "rating": 3.2,
+        "tags": ["chatbot", "single-player"]
+    },
+    {
+        "name": "Discord",
+        "img": "dist/img/discord.webp",
+        "url": "https://discord.com",
+        "desc": "Discord is a social media platform that lets you chat with friends and family. The platform has multiple channels and features.",
+        "rating": 3.2,
+        "tags": ["social media", "multiplayer"]
+    },
+    {
+        "name": "ESPN",
+        "img": "dist/img/espn.webp",
+        "url": "https://espn.com",
+        "desc": "ESPN is a sports news website that provides information about the latest sports events and results. The website has multiple sections and features.",
+        "rating": 3.2,
+        "tags": ["sports news", "single-player"]
+    },
+    {
+        "name": "Facebook",
+        "img": "dist/img/facebook.webp",
+        "url": "https://facebook.com",
+        "desc": "Facebook is a social media platform that lets you connect with friends and family. The platform has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["social media", "multiplayer"]
+    },
+    {
+        "name": "Gemini",
+        "img": "dist/img/gemini.webp",
+        "url": "https://gemini.com",
+        "desc": "Gemini is an AI chat bot that is made by Google that can answer questions and provide information.",
+        "rating": 3.2,
+        "tags": ["chatbot", "single-player"]
+    },
+    {
+        "name": "Github",
+        "img": "dist/img/github.webp",
+        "url": "https://github.com",
+        "desc": "Github is a code hosting platform that lets you store and manage your code. The platform has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["code hosting", "multiplayer"]
+    },
+    {
+        "name": "VS Code",
+        "img": "dist/img/vscode.webp",
+        "url": "https://code.visualstudio.com",
+        "desc": "VS Code is a code editor that lets you write and edit code. The editor has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["code editor", "single-player"]
+    },
+    {
+        "name": "Netflix",
+        "img": "dist/img/netflix.webp",
+        "url": "https://netflix.com",
+        "desc": "Netflix is a streaming service that lets you watch movies and TV shows. The service has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["movies", "tv shows", "multiplayer"]
+    },
+    {
+        "name": "Coolmath Games",
+        "img": "dist/img/coolmathgames.webp",
+        "url": "https://coolmathgames.com",
+        "desc": "Coolmath Games is a game platform that lets you play many games. The platform has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["game development", "multiplayer"]
+    },
+    {
+        "name": "Spotify",
+        "img": "dist/img/spotify.webp",
+        "url": "https://spotify.com",
+        "desc": "Spotify is a music streaming service that lets you listen to music. The service has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["music", "multiplayer"]
+    },
+    {
+        "name": "Twitter",
+        "img": "dist/img/twitter-x.webp",
+        "url": "https://x.com",
+        "desc": "Twitter is a social media platform that lets you post and share information. The platform has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["social media", "multiplayer"]
+    },
+    {
+        "name": "Twitch",
+        "img": "dist/img/twitch.webp",
+        "url": "https://twitch.tv",
+        "desc": "Twitch is a live streaming platform that lets you watch live streams. The platform has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["live streaming", "multiplayer"]
+    },
+    {
+        "name": "YouTube",
+        "img": "dist/img/youtube.webp",
+        "url": "https://youtube.com",
+        "desc": "YouTube is a video streaming platform that lets you watch videos. The platform has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["video streaming", "multiplayer"]
+    },
+    {
+        "name": "Y8",
+        "img": "dist/img/y8.webp",
+        "url": "https://y8.com",
+        "desc": "Y8 is a video streaming platform that lets you watch videos. The platform has multiple features and options.",
+        "rating": 3.2,
+        "tags": ["video streaming", "multiplayer"]
+    }
+]

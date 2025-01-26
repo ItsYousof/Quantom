@@ -1,0 +1,146 @@
+[
+    {
+        "name": "1v1.lol",
+        "img": "dist/img/1v1.webp",
+        "url": "https://1v1.lol",
+        "desc": "1v1.lol is a third-person shooter and building game that lets you show off your building skills. The mission is to eliminate the opponents and become the last survivor.",
+        "rating": 4.5,
+        "tags": ["shooter", "building", "multiplayer"]
+    },
+    {
+        "name": "2048",
+        "img": "dist/img/2048.webp",
+        "url": "https://play2048.co",
+        "desc": "2048 is a single-player sliding block puzzle game. The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.",
+        "rating": 4.1,
+        "tags": ["puzzle", "single-player"]
+    },
+    {
+        "name": "Cookie Clicker",
+        "img": "dist/img/cookieclicker.webp",
+        "url": "https://orteil.dashnet.org/cookieclicker/",
+        "desc": "Cookie Clicker is a game where you collect cookies by clicking on them. The more cookies you collect, the more money you get.",
+        "rating": 5,
+        "tags": ["clicker", "single-player"]
+    },
+    {
+        "name": "Eagler Craft",
+        "img": "dist/img/eaglercraft.webp",
+        "url": "https://eaglercraft.net",
+        "desc": "Eaglercraft is an open-source Minecraft mod that adds more features to the game.",
+        "rating": 5,
+        "tags": ["minecraft", "mod"]
+    },
+    {
+        "name": "OvO",
+        "img": "dist/img/ovo.webp",
+        "url": "https://ovo-game.github.io/o/ovo/",
+        "desc": "OvO is a virtual reality game that lets you play with your friends in a virtual world. ",
+        "rating": 3.2,
+        "tags": ["virtual reality", "multiplayer"]
+    },
+    {
+        "name": "Slope",
+        "img": "dist/img/slope.webp",
+        "url": "https://ubggo.github.io/ub-games/slope/",
+        "desc": "Slope is a 2D platformer game where you control a character and climb platforms.",
+        "rating": 3.5,
+        "tags": ["platformer", "single-player"]
+    },
+    {
+        "name": "Idle Breakout",
+        "img": "dist/img/idlebreakout.webp",
+        "url": "https://idle-breakout.github.io/games/idle-breakout/index.html",
+        "desc": "Idle Breakout is a game where you break blocks with your mouse.",
+        "rating": 4.2,
+        "tags": ["breakout", "single-player"]
+    },
+    {
+        "name": "Vex 8",
+        "img": "dist/img/vex8.webp",
+        "url": "https://html5.gamedistribution.com/rvvASMiM/949009d40a2846f89f887de2285d6c28/index.html?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2h0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tLzk0OTAwOWQ0MGEyODQ2Zjg5Zjg4N2RlMjI4NWQ2YzI4LyIsInBhcmVudERvbWFpbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidG9wRG9tYWluIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNyJ9",
+        "desc": "Vex 8 is a game where you control a robot and collect coins.",
+        "rating": 4.3,
+        "tags": ["robot", "single-player"]
+    },
+    {
+        "name": "Time Shooter 3",
+        "img": "dist/img/time-shooter-3.webp",
+        "url": "https://google-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/version@0d8fb9c7430567ed0900902593eee6ba2ba8d297/ts3.xml&container=ig",
+        "desc": "Time Shooter 3 is a game where you shoot enemies and collect coins.",
+        "rating": 2.5,
+        "tags": ["shooter", "single-player"]
+    },
+    {
+        "name": "Run 3",
+        "img": "dist/img/run3.webp",
+        "url": "https://www.crazygames.com/game/run-3",
+        "desc": "Run 3 is a game where you run and collect coins. The game has multiple levels and challenges.",
+        "rating": 2.5,
+        "tags": ["runner", "single-player"]
+    },
+    {
+        "name": "Basket Random",
+        "img": "dist/img/basketrandom.webp",
+        "url": "https://files.twoplayergames.org/files/games/other/Basket_Random/index.html",
+        "desc": "Basket Random is a game where you control a basket and collect coins. The game has multiple levels and challenges.",
+        "rating": 3.2,
+        "tags": ["basketball", "single-player"]
+    },
+    {
+        "name": "Hole IO",
+        "img": "dist/img/hole-io.webp",
+        "url": "https://hole-io.com",
+        "desc": "Hole IO is a game where you try to put as many objects into a hole as possible. The game has multiple levels and challenges.",
+        "rating": 3.2,
+        "tags": ["ball", "single-player"]
+    },
+    {
+        "name": "Paper IO",
+        "img": "dist/img/paperio.webp",
+        "url": "https://paper-io.com",
+        "desc": "Paper IO is a game where you control a paper and try to cover as much area as possible. The game has multiple levels and challenges.",
+        "rating": 3.2,
+        "tags": ["ball", "single-player"]
+    },
+    {
+        "name": "Basket Bros",
+        "img": "dist/img/basketbros.webp",
+        "url": "https://basketbros.io/",
+        "desc": "Basketball Bros is a game where you control a basketball player and try to score as many points as possible. The game has multiple levels and challenges.",
+        "rating": 3.2,
+        "tags": ["basketball", "single-player"]
+    },
+    {
+        "name": "Subway Surfers",
+        "img": "dist/img/subway.webp",
+        "url": "https://files.ufreegame.net/1024/Subway-Surfers-Zurich/",
+        "desc": "Subway Surfers is a game where you control a player while running from the police and collect coins. The game has multiple levels and challenges.",
+        "rating": 3.2,
+        "tags": ["ball", "single-player"]
+    },
+    {
+        "name": "Territorial", 
+        "img": "dist/img/territorial.webp",
+        "url": "https://territorial.io",
+        "desc": "Terriorial is a game where you try to take control over as much territory as possible. The game has multiple levels and challenges.",
+        "rating": 3.2,
+        "tags": ["ball", "single-player"]
+    },
+    {
+        "name": "Temple Run",
+        "img": "dist/img/temple-run.webp",
+        "url": "https://azgames.io/game/temple-run-2/",
+        "desc": "Temple Run is a game where you are running from monkies and collecting coins. The game has multiple levels and challenges.",
+        "rating": 3.2,
+        "tags": ["ball", "single-player"]
+    },
+    {
+        "name": "Bitlife",
+        "img": "dist/img/bitlife.webp",
+        "url": "https://bitlifesimulator.io/game/bitlife/",
+        "desc": "Bitlife is a life simulation game where you are in control of a character's life.",
+        "rating": 3.2,
+        "tags": ["ball", "single-player"]
+    }
+]
