@@ -20,6 +20,7 @@ setInterval(updateClock, 1000);
 
 let search = document.getElementById('home-s');
 
+// ... existing code ...
 search.addEventListener('keydown', (event) => {
     if (event.key === 'Enter') {
         let query = search.value;
@@ -27,7 +28,11 @@ search.addEventListener('keydown', (event) => {
             if (query.startsWith('http://') || query.startsWith('https://')) {
                 window.location.href = __uv$config.prefix + __uv$config.encodeUrl(query);
             } else {
-                window.location.href = __uv$config.prefix + __uv$config.encodeUrl('https://www.google.com/search?q=' + query);
+                if (query.includes('.')) {
+                    window.location.href = __uv$config.prefix + __uv$config.encodeUrl(query);
+                } else {
+                    window.location.href = __uv$config.prefix + __uv$config.encodeUrl('https://www.bing.com/search?q=' + query);
+                }
             }
         }
     }
